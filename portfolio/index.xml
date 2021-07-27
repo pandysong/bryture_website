@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Bryture</title>
+    <link>https://www.bryture.com/portfolio/</link>
+    <description>Recent content in Portfolio on Bryture</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jan 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://www.bryture.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>USB Conference Camera</title>
+      <link>https://www.bryture.com/portfolio/project-1/</link>
+      <pubDate>Tue, 12 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.bryture.com/portfolio/project-1/</guid>
+      <description>Project Requirements It requires a USB Camera solution supporting UVC (USB Video Class) and UAC (USB Audio Class) with Camera Sensor (with HDR/WDR capability).</description>
+    </item>
+    
+    <item>
+      <title>Face Follower Gadget</title>
+      <link>https://www.bryture.com/portfolio/project-2/</link>
+      <pubDate>Mon, 11 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.bryture.com/portfolio/project-2/</guid>
+      <description>Project Requirements It requires face detection to drive a motor to follow the direction where faces locates.</description>
+    </item>
+    
+    <item>
+      <title>Artwork Design</title>
+      <link>https://www.bryture.com/portfolio/project-3/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.bryture.com/portfolio/project-3/</guid>
+      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artwork Design</title>
+      <link>https://www.bryture.com/portfolio/project-4/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.bryture.com/portfolio/project-4/</guid>
+      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artwork Design</title>
+      <link>https://www.bryture.com/portfolio/project-5/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.bryture.com/portfolio/project-5/</guid>
+      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artwork Design</title>
+      <link>https://www.bryture.com/portfolio/project-6/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.bryture.com/portfolio/project-6/</guid>
+      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artwork Design</title>
+      <link>https://www.bryture.com/portfolio/project-7/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.bryture.com/portfolio/project-7/</guid>
+      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artwork Design</title>
+      <link>https://www.bryture.com/portfolio/project-8/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.bryture.com/portfolio/project-8/</guid>
+      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artwork Design</title>
+      <link>https://www.bryture.com/portfolio/project-9/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.bryture.com/portfolio/project-9/</guid>
+      <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>

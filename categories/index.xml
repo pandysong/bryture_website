@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Bryture</title>
+    <link>https://www.bryture.com/categories/</link>
+    <description>Recent content in Categories on Bryture</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jan 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://www.bryture.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pcba</title>
+      <link>https://www.bryture.com/categories/pcba/</link>
+      <pubDate>Tue, 12 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.bryture.com/categories/pcba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software development</title>
+      <link>https://www.bryture.com/categories/software-development/</link>
+      <pubDate>Tue, 12 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.bryture.com/categories/software-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>detections</title>
+      <link>https://www.bryture.com/categories/detections/</link>
+      <pubDate>Mon, 11 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.bryture.com/categories/detections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>face</title>
+      <link>https://www.bryture.com/categories/face/</link>
+      <pubDate>Mon, 11 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.bryture.com/categories/face/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>branding</title>
+      <link>https://www.bryture.com/categories/branding/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.bryture.com/categories/branding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design</title>
+      <link>https://www.bryture.com/categories/design/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.bryture.com/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://www.bryture.com/categories/development/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.bryture.com/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>illustration</title>
+      <link>https://www.bryture.com/categories/illustration/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.bryture.com/categories/illustration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
